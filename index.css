@@ -1,0 +1,79 @@
+*{
+
+background-color:black ;
+color: ;
+font-family: sans-serif;
+
+}
+button{
+
+ border-spacing: 55px;
+
+}
+ .menu{ 
+      background-color: black;
+      width:25% ;
+      float: left;
+      border: 2px solid ;
+      color: white;
+      border-radius: 14px;
+
+
+     }
+       #me{
+       border-radius: 20px;
+       width: 52px;
+       height: 40px;
+
+       }
+       #bg{
+        background-image: url('');
+        padding-left: 20px;
+        }
+        .menu2{ 
+         border: 1px solid gray ;
+
+
+         }
+         .main{ 
+
+          background-color:black ;
+          width: 50%;
+          float: left;
+          border: 2px solid;
+          color: white;
+          border-radius: 14px;
+
+       }
+       background-image{ width:230px;
+       	                    background-position: fixed;
+       	                    background-attachment: cover;
+       	                    background-repeat: no-repeat;
+
+
+                     height:200px; }
+
+                     .right{
+
+         width: 24%;
+         float: left;
+         background-color: black;
+         color: white;
+         border: 2px solid ;
+         border-radius: 14px;
+         
+        }
+        @media only screen and (max-width: 800px) {
+  .main, .main, .right {
+    background-color: lightblue;
+    width: 100%;
+  }
+}
+#i{
+width: 20px;
+height: 20px;
+}
+#ii{
+width: 40px;
+height: 30px;
+}
